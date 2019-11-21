@@ -39,7 +39,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/proba-1-128x34.png",
-    "noImageResize": false,
+    "noImageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
