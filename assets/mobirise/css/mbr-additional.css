@@ -2892,6 +2892,20 @@ section.lazy-placeholder:after {
 .cid-rJAETR7Uhd .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-rNsFVHUb1H {
+  background-image: url("../../../assets/images/gautam-arora-78ae6n7rnvi-unsplash.jpg");
+}
+.cid-rNsFVHUb1H .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-rNsFVHUb1H .media-container-column {
+  background-color: #ff7f9f;
+}
+@media (max-width: 767px) {
+  .cid-rNsFVHUb1H .media-container-column {
+    padding: 1rem !important;
+  }
+}
 .cid-rKbwrNN2EG {
   background-image: url("../../../assets/images/2-u-1-programi-slika.jpg");
 }
