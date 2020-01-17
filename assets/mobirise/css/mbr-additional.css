@@ -4137,7 +4137,7 @@ section.lazy-placeholder:after {
 .cid-rNEvump6PF {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/mbr-6.jpeg");
+  background-image: url("../../../assets/images/mbr-17.jpg");
 }
 .cid-rNEvwewDm9 {
   padding-top: 120px;
@@ -4623,7 +4623,7 @@ section.lazy-placeholder:after {
 .cid-rNQTcHh2KJ {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/mbr-19.jpeg");
 }
 .cid-rNRdyBvL6w {
   padding-top: 60px;
@@ -5088,7 +5088,7 @@ section.lazy-placeholder:after {
 .cid-rNED7KQZhr {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/mbr-7.jpeg");
+  background-image: url("../../../assets/images/mbr-18.jpg");
 }
 .cid-rNED8oPxKn {
   padding-top: 60px;
@@ -5587,6 +5587,59 @@ section.lazy-placeholder:after {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
+}
+.cid-rNRWmC18pd {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/mbr-15.jpg");
+}
+.cid-rNRWnns4Y2 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rNRWnns4Y2 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rNRWp8edzn {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rNRWp8edzn .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rNRWp8edzn .section-text {
+  padding: 2rem 0;
+}
+.cid-rNRWp8edzn .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rNRWp8edzn .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rNRWovdhnJ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rNRWovdhnJ .mbr-text,
+.cid-rNRWovdhnJ blockquote {
+  color: #767676;
+}
+.cid-rNRWpwsEH6 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rNRWpwsEH6 .mbr-text {
+  color: #767676;
 }
 .cid-rJAETR7Uhd .navbar {
   background: #ffffff;
